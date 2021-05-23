@@ -2,3 +2,4 @@ data/*
 !.gitkeep
 .vscode
 node_modules
+*.code-workspace
